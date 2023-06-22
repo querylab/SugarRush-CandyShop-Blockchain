@@ -22,15 +22,15 @@ $ privateKey
 $ Contract address
 
 ```
-## 4. Deployment Solidity Contract Addresses
+## 4. Run tests
 ```bash
-$ npx hardhat clean
-$ npx hardhat compile
+$ npx hardhat test
 ```
 
-## 5. Run tests
+## 5. Deployment Solidity Contract Addresses
 ``` bash
-$ npx hardhat test
+$ npx hardhat clean
+$ npx hardhat compile
 ```
 
 
