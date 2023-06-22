@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Soft Delights",
+      "category": "icecream",
+      "image": "https://bafkreifwcmohds2mzyx7rpcqjun4q3kvjavc5kd3q5brhldptyxy3ee7cu.ipfs.nftstorage.link",
+      "price": "0.0000012",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Dream Creams",
+      "category": "icecream",
+      "image": "https://bafkreia27hnc3v43ofo24vn4xkf4qkjz6kd6qhvkkppzw7mwrholcsdqsa.ipfs.nftstorage.link",
+      "price": "0.0000012",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "Frozen Fantasy",
+      "category": "icecream",
+      "image": "https://bafkreienwvjqhkl6mag622dv5trdgfdg24g3b6kl4covgcaxqucwy2bjqm.ipfs.nftstorage.link",
+      "price": "0.0000012",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Magic Flavors",
+      "category": "candys",
+      "image": "https://bafkreig3br57zzlorzvferuho572qriewelnfdvgp5di5bwqs5bfgeiyvq.ipfs.nftstorage.link",
+      "price": "0.0000012",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Sugary Delights",
+      "category": "candys",
+      "image": "https://bafkreid25lphmyesz3yloboc7bxonnvzsgfhqd36tdfydsvzdchbkcxcam.ipfs.nftstorage.link",
+      "price": "0.0000012",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Sweet Enchantment",
+      "category": "candys",
+      "image": "https://bafkreiayykw4xk5wxp2mnehhkfc6h3fefc3hy32r527tapcgiong5qhp3u.ipfs.nftstorage.link",
+      "price": "0.0000012",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "Cocoa Ecstasy",
+      "category": "chocolates",
+      "image": "https://bafkreigvjqjxh6nvy2huze6kdh5h72y3olgr3vp2jtxcw7gi2repxvimxu.ipfs.nftstorage.link",
+      "price": "0.0000012",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Divine Strawberry",
+      "category": "chocolates",
+      "image": "https://bafkreifkcsh2tj32i7h44wuvsri3fbvpzlovhzm7hzewtxplv7i4vl2zz4.ipfs.nftstorage.link",
+      "price": "0.0000012",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "Chocolaty Temptation",
+      "category": "chocolates",
+      "image": "https://bafkreihfgxqjylq6n6moje2pgbzthpixkuf4ov764rv23jp4u7tlttb4cm.ipfs.nftstorage.link",
+      "price": "0.0000012",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}
